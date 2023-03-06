@@ -1,0 +1,1053 @@
+.wpac {
+
+    font-size: 14px;
+
+    line-height: 20px;
+
+    direction: ltr;
+
+    text-align: left;
+
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+
+    color: #333;
+
+    font-style: normal;
+
+    font-weight: normal;
+
+    text-decoration: none;
+
+    list-style-type: disc;
+
+}
+
+
+
+.wp-gr {
+
+  -webkit-box-sizing: border-box;
+
+     -moz-box-sizing: border-box;
+
+          box-sizing: border-box;
+
+}
+
+
+
+.wp-gr * {
+
+	-webkit-box-sizing: inherit;
+
+     -moz-box-sizing: inherit;
+
+          box-sizing: inherit;	
+
+}
+
+.wp-gr *:before,
+
+.wp-gr *:after {
+
+  -webkit-box-sizing: inherit;
+
+     -moz-box-sizing: inherit;
+
+          box-sizing: inherit;
+
+}
+
+
+
+.wp-gr .wp-google-badge_left-fixed {
+
+    position: absolute;
+
+    bottom: 0;
+
+    max-width: none;
+
+
+
+    display: inline-block;
+
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.26);
+
+    cursor: pointer;
+
+}
+
+
+
+.wp-gr .wp-google-badge {
+
+    display: block;
+
+    color: rgb(51,51,51);
+
+}
+
+
+
+svg:not(:root) {
+
+	overflow: hidden;
+
+}
+
+
+
+.wp-gr .wp-google-badge * {
+
+    cursor: pointer;
+
+}
+
+
+
+.wp-gr .wp-google-border {
+
+    width: 100%;
+
+    height: 6px;
+
+    background: #4fce6a;
+
+    border-radius: 2px 2px 0 0;
+
+}
+
+
+
+.wp-gr .wp-google-badge-btn {
+
+    min-width: 213px;
+
+    position: relative;
+
+    padding: 10px;
+
+    background: #fff;
+
+    transition: all .2s ease-in-out;
+
+    border-radius: 2px;
+
+}
+
+
+
+.wpac svg {
+
+    vertical-align: middle;
+
+    -moz-box-sizing: content-box;
+
+    -webkit-box-sizing: content-box;
+
+    box-sizing: content-box;
+
+}
+
+
+
+.wp-gr .wp-google-badge-score {
+
+    display: inline-block;
+
+    margin: 0 0 0 4px;
+
+    vertical-align: middle;
+
+}
+
+
+
+.wp-gr .wp-google-rating {
+
+    color: #e7711b;
+
+    font-size: 20px;
+
+    margin: 0 6px 0 0;
+
+    vertical-align: middle;
+
+}
+
+
+
+.wp-gr .wp-google-form {
+
+	position: fixed;
+
+    bottom: 0;
+
+    right: 0;
+
+    height: 100%;
+
+    width: 368px;
+
+    z-index: 2147483000;
+
+}
+
+
+
+.wp-gr .wp-google-form.wp-google-form-left {
+
+	left: 0;
+
+}
+
+
+
+.wp-gr .wp-google-head {
+
+	position: absolute;
+
+    top: 0;
+
+    right: 0;
+
+    width: 100%;
+
+    height: 80px;
+
+    background: #fff;
+
+    padding: 10px 16px;
+
+    overflow: hidden;
+
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,.12);
+
+    z-index: 2147483002;
+
+}
+
+
+
+.wp-google-badge-btn .wp-stars {
+
+	margin-left: -2px;
+
+}
+
+
+
+.wp-gr .wp-google-head-inner {
+
+	z-index: 2147483000;
+
+    position: absolute;
+
+    left: 16px;
+
+    top: 20px;
+
+    width: 100%;
+
+    height: 100%;
+
+    pointer-events: none;
+
+
+
+}
+
+
+
+.wp-gr .wp-google-left {
+
+	display: table-cell;
+
+    padding-right: 15px;
+
+    vertical-align: top;
+
+}
+
+
+
+.wp-gr.wpac .wp-google-left img {
+
+	width: 50px;
+
+    height: 50px;
+
+    border-radius: 50%;
+
+}
+
+
+
+.wp-gr.wpac .wp-google-review .wp-google-left img {
+
+    border-radius: 0;
+
+}
+
+
+
+.wp-gr .wp-google-right {
+
+	display: table-cell;
+
+    vertical-align: top;
+
+    width: 10000px;
+
+}
+
+
+
+.wp-gr.wpac .wp-google-name {
+
+	font-size: 100%;
+
+}
+
+
+
+.wp-gr .wp-google-name {
+
+	color: black;
+
+    font-size: 100%;
+
+    font-weight: bold;
+
+    margin: 0 0 2px;
+
+    padding-right: 6px;
+
+    text-decoration: none;
+
+}
+
+
+
+.wp-gr .wp-google-rating {
+
+	color: #e7711b;
+
+    font-size: 20px;
+
+    margin: 0 6px 0 0;
+
+    vertical-align: middle;
+
+}
+
+
+
+.wp-gr .wp-google-close {
+
+	padding: 0;
+
+    cursor: pointer;
+
+    outline: 0;
+
+    border: 0;
+
+    background: 0 0;
+
+    min-height: 0;
+
+    width: auto;
+
+    float: right;
+
+    font-size: 32px;
+
+    font-weight: 500;
+
+    line-height: .6;
+
+    color: #999;
+
+    -webkit-appearance: none;
+
+    margin-top: 10px;
+
+}
+
+
+
+.wp-gr .wp-google-close:hover {
+
+	color: #555;
+
+}
+
+
+
+.wp-gr .wp-google-body {
+
+	position: absolute;
+
+    top: 0;
+
+    right: 0;
+
+    bottom: 0;
+
+    width: 100%;
+
+    background: rgba(250,250,251,.98);
+
+    border-left: 1px solid #dadee2;
+
+    box-shadow: 0 0 4px 1px rgba(0,0,0,.08);
+
+    z-index: 2147483000;
+
+}
+
+
+
+.wp-gr .wp-google-content { 
+
+    position: absolute;
+
+    top: 0;
+
+    right: 0;
+
+    bottom: 0;
+
+    width: 100%;
+
+    overflow-y: auto;
+
+    z-index: 2147483001;
+
+    -webkit-transform: translateZ(0);
+
+    top: 80px;
+
+    bottom: 48px;
+
+}
+
+
+
+.wp-gr .wp-google-content-inner {
+
+	position: relative;
+
+    min-height: 100%;
+
+    margin: 0 auto;
+
+}
+
+
+
+.wp-gr .wp-google-form .wp-google-reviews {
+
+	padding: 16px;
+
+}
+
+
+
+.wp-gr .wp-google-review {
+
+	    margin-top: 15px;
+
+}
+
+
+
+.wp-gr .wp-google-time {
+
+	color: #999;
+
+    font-size: 13px;
+
+    margin-bottom: 1px;
+
+}
+
+
+
+.wp-gr.wpac .wp-google-review .wp-google-stars {
+
+	display: inline-block;
+
+    vertical-align: top;
+
+    margin-top: 3px;
+
+    margin-right: 1px;
+
+    margin-left: -2px;
+
+}
+
+
+
+.wp-google-stars {
+
+	display: inline-block;
+
+	vertical-align: middle;
+
+}
+
+
+
+.wp-gr .wp-google-text {
+
+	color: #222;
+
+    font-size: 13px;
+
+    line-height: 18px;
+
+    max-width: 100%;
+
+    overflow: hidden;
+
+    white-space: pre-wrap;
+
+}
+
+
+
+.wp-gr .wp-more {
+
+	display: none;
+
+}
+
+
+
+.wp-gr .wp-more-toggle {
+
+	color: #136aaf;
+
+    cursor: pointer;
+
+    text-decoration: underline;
+
+}
+
+
+
+.wp-gr .wp-google-footer {
+
+	position: absolute;
+
+    bottom: 0;
+
+    right: 0;
+
+    width: 100%;
+
+    height: 48px;
+
+    text-align: center;
+
+    z-index: 2147483002;
+
+    background: #fff;
+
+    box-shadow: 0 -1px 2px 0 rgba(0,0,0,.06);
+
+    -moz-text-align-last: center;
+
+    text-align-last: center;
+
+}
+
+
+
+.wp-gr .wp-google-footer img {
+
+	    float: right;
+
+    padding: 16px;
+
+}
+
+
+
+.wp-stars input[name='rating'] {
+
+	display: none;
+
+}
+
+
+
+.wp-stars {
+
+	display: block;
+
+	position: relative;
+
+}
+
+
+
+.wp-stars:before {
+
+	content: '';
+
+	display: block;
+
+	width: 100%;
+
+	position: absolute;
+
+	top: 0;
+
+	right: 0;
+
+	bottom: 0;
+
+	left: 0;
+
+	z-index: 2;
+
+}
+
+
+
+/*!
+
+ * bootstrap-star-rating v4.0.5
+
+ * http://plugins.krajee.com/star-rating
+
+ *
+
+ * Author: Kartik Visweswaran
+
+ * Copyright: 2013 - 2018, Kartik Visweswaran, Krajee.com
+
+ *
+
+ * Licensed under the BSD 3-Clause
+
+ * https://github.com/kartik-v/bootstrap-star-rating/blob/master/LICENSE.md
+
+ */
+
+.rating-loading {
+
+    width: 25px;
+
+    height: 25px;
+
+    font-size: 0;
+
+    color: #fff;
+
+    background: transparent url('loading.gif') top left no-repeat;
+
+    border: none;
+
+}
+
+
+
+/*
+
+ * Stars & Input
+
+ */
+
+.rating-container .rating-stars {
+
+    position: relative;
+
+    cursor: pointer;
+
+    vertical-align: middle;
+
+    display: inline-block;
+
+    overflow: hidden;
+
+    white-space: nowrap;
+
+    font-size: 0;
+
+    line-height: 1em;
+
+}
+
+
+
+.rating-container .rating-input {
+
+    position: absolute;
+
+    cursor: pointer;
+
+    width: 100%;
+
+    height: 1px;
+
+    bottom: 0;
+
+    left: 0;
+
+    font-size: 1px;
+
+    border: none;
+
+    background: none;
+
+    opacity: 0;
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+
+
+.rating-container.is-display-only .rating-input,
+
+.rating-container.is-display-only .rating-stars {
+
+    cursor: default;
+
+}
+
+
+
+.rating-disabled .rating-input, .rating-disabled .rating-stars {
+
+    /*cursor: not-allowed;*/
+
+}
+
+
+
+.rating-container .star {
+
+    display: inline-block;
+
+    margin: 0 2px;
+
+    text-align: center;
+
+}
+
+
+
+.rating-container .empty-stars {
+
+    color: #aaa;
+
+}
+
+
+
+.rating-container .filled-stars {
+
+    position: absolute;
+
+    left: 0;
+
+    top: 0;
+
+    margin: auto;
+
+    color: #fde16d;
+
+    white-space: nowrap;
+
+    overflow: hidden;
+
+    -webkit-text-stroke: 1px #777;
+
+    text-shadow: 1px 1px #999;
+
+}
+
+
+
+.rating-rtl {
+
+    float: right;
+
+}
+
+
+
+.rating-animate .filled-stars {
+
+    transition: width 0.25s ease;
+
+}
+
+
+
+.rating-rtl .filled-stars {
+
+    left: auto;
+
+    right: 0;
+
+    transition: none;
+
+    -webkit-transform: matrix(-1, 0, 0, 1, 0, 0);
+
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+
+}
+
+
+
+.rating-rtl.is-star .filled-stars {
+
+    right: 0.06em;
+
+}
+
+
+
+.rating-rtl.is-heart .empty-stars {
+
+    margin-right: 0.07em;
+
+}
+
+
+
+/**
+
+ * Clear
+
+ */
+
+ .rating-container {
+
+	font-size: 0;
+
+	line-height: 1em;
+
+ }
+
+
+
+.rating-container .clear-rating {
+
+    color: #aaa;
+
+    cursor: not-allowed;
+
+    display: inline-block;
+
+    vertical-align: middle;
+
+    font-size: 60%;
+
+}
+
+
+
+.clear-rating-active {
+
+    cursor: pointer !important;
+
+}
+
+
+
+.clear-rating-active:hover {
+
+    color: #843534;
+
+}
+
+
+
+.rating-container .clear-rating {
+
+    padding-right: 5px;
+
+}
+
+
+
+.rating-icon-empty {
+
+	display: block;
+
+	width: 16px;
+
+	height: 15px;
+
+	background: transparent url("stars.webp") no-repeat 0 0;
+
+}
+
+
+
+.rating-icon-filled {
+
+	display: block;
+
+	width: 16px;
+
+	height: 15px;
+
+	background: transparent url("stars.webp") no-repeat 0 -25px;
+
+}
+
+
+
+/**
+
+ * Caption
+
+ */
+
+
+
+/* extend support to BS4 */
+
+.rating-container .caption .label {
+
+    display: inline-block;
+
+    padding: .25em .4em;
+
+    line-height: 1;
+
+    text-align: center;
+
+    vertical-align: baseline;
+
+    border-radius: .25rem;
+
+}
+
+
+
+.rating-container .caption {
+
+    color: #999;
+
+    display: inline-block;
+
+    vertical-align: middle;
+
+    line-height: 1;
+
+}
+
+
+
+.rating-container .caption {
+
+    margin-left: 5px;
+
+    margin-right: 0;
+
+}
+
+
+
+.rating-rtl .caption {
+
+    margin-right: 5px;
+
+    margin-left: 0;
+
+}
+
+
+
+.rating-button-wrap {
+
+    position: absolute;
+
+    bottom: 10px;
+
+    top: auto;
+
+    left: 10px; 
+
+    right: auto;
+
+    z-index: 20;
+
+    width: 189px;
+
+    height: 62px;
+
+}
+
+
+
+.rating-button-wrap.rating-button-wrap--align-right {
+
+    left: 10px;
+
+    right: auto;
+
+}
+
+
+
+.wp-gr .wp-google-badge_left-fixed.is_stuck {
+
+  right: auto !important;
+
+  left: auto !important;
+
+  margin-top: 10px;
+
+}
+
+
+
+body.reviews-opened .rating-button-wrap {
+
+    display: none !important;
+
+    z-index: -1 !important;
+
+}
+
+
+
+body.reviews-opened .wp-gr .wp-google-badge_left-fixed.is_stuck {
+
+    display: none !important;
+
+    position: absolute !important;
+
+}
+
+/**
+
+ * Print
+
+ */
+
+@media print {
+
+    .rating-container .clear-rating {
+
+        display: none;
+
+    }
+
+}

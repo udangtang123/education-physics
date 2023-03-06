@@ -1,0 +1,2100 @@
+.m-success-stories {
+
+
+    border-color: #000;
+
+    border-width: 1px 0px 1px;
+
+    padding: 30px 30px 20px;
+
+}
+
+
+
+.m-success-stories--blue {
+
+    background-color: #a6d4f6;
+
+    padding-left: 15px;
+
+    padding-right: 15px;
+
+    border: none;
+
+}
+
+
+
+.m-success-stories .m-success-stories__r {
+
+    padding-bottom: 15px;
+
+}
+
+
+
+.m-success-stories .com-apple-iweb-widget-YouTube {
+
+    max-width: 100%;
+
+}
+
+
+
+.m-success-stories__title {
+
+	font-family: "CalisMTBol", "Calisto MT", serif;
+
+    font-weight: bold;
+
+    font-size: 32px;
+
+    line-height: 1.125em;
+
+    color: #010101;
+
+    margin: 0 0 0.75em;
+
+    padding: 0;
+
+}
+
+
+
+.m-success-stories__subtitle {
+
+    font-family: "CalisMTBol", "Calisto MT", serif;
+
+    font-weight: bold;
+
+    font-size: 20px;
+
+    line-height: 1.125em;
+
+    color: #010101;
+
+    margin: 0 0 0.75em;
+
+    padding: 0;
+
+}
+
+
+
+.m-videos .success-story2 {
+
+	margin-top: 22px;
+
+}
+
+
+
+.m-videos .success-story2__description {
+
+	padding-top: 20px;
+
+}
+
+
+
+.m-covid {
+
+	padding-top: 15px;
+
+}
+
+
+
+.m-covid__title {
+
+	color: #010506;
+
+    font-size: 24px;
+
+    font-weight: 400;
+
+    line-height: 1.125em;
+
+    margin-bottom: 0.95833333em;
+
+}
+
+
+
+.m-tutors-section .o-tutors {
+
+    background: transparent;
+
+    padding-left: 0;
+
+    padding-right: 0;
+
+}
+
+
+
+.m-tutors-section .o-tutors__title {
+
+    font-family: "CalisMTBol", "Calisto MT", serif;
+
+    font-weight: bold;
+
+    font-size: 32px;
+
+    line-height: 1.125em;
+
+    color: #010101;
+
+    margin: 0 0 0.75em;
+
+    padding: 0;
+
+}
+
+
+
+.m-tutors-block2 .section-b1-video {
+
+    display: flex;
+
+    flex-direction: row;
+
+    flex-wrap: nowrap;
+
+    width: 100%;
+
+    justify-content: flex-start;
+
+    align-items: center;
+
+}
+
+
+
+.m-tutors-block2 .section-b1-video__iframe {
+
+    flex-shrink: 0;
+
+}
+
+
+
+.m-tutors-block2 .section-b1-video__description {
+
+    flex-shrink: 0;
+
+    padding-left: 20px;
+
+}
+
+
+
+.m-tutors-section .o-tutors__subtitle {
+
+    font-family: "CalisMTBol", "Calisto MT", serif;
+
+    font-weight: bold;
+
+    font-size: 20px;
+
+    line-height: 1.125em;
+
+    color: #010101;
+
+    margin: 0 0 0.75em;
+
+    padding: 0;
+
+}
+
+
+
+.m-tutors-block2__title {
+
+    font-family: "CalisMTBol", "Calisto MT", serif;
+
+    font-weight: bold;
+
+    font-size: 20px;
+
+    line-height: 1.125em;
+
+    color: #010101;
+
+    margin: 0 0 0.75em;
+
+    padding: 64px 0 0;
+
+}
+
+
+
+.m-tutors-block2 {
+
+    padding-top: 20px;
+
+}
+
+
+
+.m-tutors-section {
+
+    border-bottom: 1px solid #000;
+
+    padding-top: 20px;
+
+    padding-bottom: 10px;
+
+    margin-bottom: 40px;
+
+}
+
+
+
+.tutors-horizontal-line {
+
+    width: 25%;
+
+    height: 2px;
+
+    background-color: #000;
+
+    margin: 20px auto;
+
+}
+
+
+
+@media screen and (max-width: 767px) {
+
+    .m-tutors-block2 .section-b1-video {
+
+        display: block;
+
+    }
+
+
+
+    .m-tutors-block2__title {
+
+        padding-top: 1px;
+
+    }
+
+
+
+    .mt-img-banner--math > .wpac {
+
+        top: auto !important;
+
+        bottom: 10px !important;
+
+    }
+
+
+
+    .pt-img-banner--et-main > .wpac {
+
+        top: auto !important;
+
+        bottom: 10px !important;
+
+    }
+
+}
+
+
+
+@media screen and (max-width: 600px) {
+
+    .pt-img-banner--et-main .pt-img-banner__title {
+
+        bottom: 90px;
+
+    }
+
+}
+
+
+
+@media screen and (max-width: 550px) {
+
+    .mt-img-banner--math .pt-img-banner__title {
+
+        bottom: 90px;
+
+    }
+
+
+
+    .pt-img-banner--science-page .pt-img-banner__title {
+
+        bottom: 90px;
+
+    }
+
+}
+
+
+
+@media screen and (max-width: 479px) {
+
+    .m-success-stories {
+
+        padding-left: 15px;
+
+        padding-right: 15px;
+
+    }
+
+
+
+    .m-tutors-section {
+
+        padding-left: 15px;
+
+        padding-right: 15px;
+
+    }
+
+
+
+    .m-tutors-block2 .section-b1-video__description {
+
+        padding-left: 0;
+
+    }
+
+}
+
+
+
+.section--bg-pink {
+
+    background-color: #ffcacd;   
+
+}
+
+
+
+.m-tutors-section.section--bg-pink {
+
+    padding-left: 26px;
+
+    padding-right: 12px;
+
+    border-top: none;
+
+    border-bottom: none
+
+}
+
+
+
+.no-bottom-border {
+
+    border-bottom: none;
+
+}
+
+
+
+/* Toronto page (05.01.2021) */
+
+.pt-course-new-section {
+
+    margin-top: 32px;
+
+}
+
+
+
+.pt-course-new-section .nap {
+
+margin-top: 82px;
+
+}
+
+
+
+.pt-course-new-section .pt-course-intro__text {
+
+    max-width: 250px;
+
+}
+
+
+
+.tutors.tutors--no-bg {
+
+    background-color: transparent;
+
+}
+
+
+
+.toronto-intro,
+
+.city-intro {
+
+    background-color: #b6e4f8;
+
+    padding: 21px 30px 26px;
+
+}
+
+
+
+.toronto-intro + .m-success-stories,
+
+.city-intro + .m-success-stories {
+
+    border-top: none;
+
+}
+
+
+
+.blue-subjects {
+
+    width: 100%;
+
+}
+
+
+
+.blue-subjects__wrapper {
+
+    display: flex;
+
+    flex-direction: row;
+
+    flex-wrap: wrap;
+
+    margin: 0 -8px;
+
+    justify-content: flex-start;
+
+    align-items: flex-start;
+
+}
+
+
+
+.blue-subjects__item {
+
+    width: 20%;
+
+    min-width: 124px;
+
+    padding: 0 8px 16px;
+
+}
+
+
+
+.blue-subject {
+
+    display: block;
+
+    background-color: #253d89;
+
+    width: 100%;
+
+    height: 88px;
+
+    border: 4px solid #385eac;
+
+    color: #fff;
+
+    text-decoration: none;
+
+    border-radius: 10px;
+
+    line-height: 80px;
+
+    padding: 0 8px;
+
+}
+
+
+
+.blue-subject__text {
+
+    display: inline-block;
+
+    vertical-align: middle;
+
+    width: 100%;
+
+    font-size: 20px;
+
+    line-height: 24px;
+
+}
+
+
+
+.blue-subject--sm .blue-subject__text {
+
+    font-size: 16px;
+
+    line-height: 1.2em;
+
+}
+
+
+
+.blue-subjects--fit-content .blue-subjects__wrapper {
+
+    align-items: stretch;
+
+}
+
+
+
+.blue-subjects--fit-content .blue-subject {
+
+    height: 100%;
+
+}
+
+
+
+.toronto-intro-main__title,
+
+.city-intro-main__title {
+
+    font-family: "CalisMTBol", "Calisto MT", serif;
+
+    font-size: 36px;
+
+    line-height: 1.2em;
+
+    color: #010101;
+
+    font-weight: 400;
+
+    margin: 0 0 21px;
+
+    padding: 0;
+
+    text-align: center;
+
+}
+
+
+
+.toronto-intro-main__wrapper,
+
+.city-intro-main__wrapper {
+
+    display: flex;
+
+    flex-direction: row;
+
+    flex-wrap: nowrap;
+
+    width: 100%;
+
+    justify-content: flex-start;
+
+}
+
+
+
+.toronto-intro-main__enroll,
+
+.city-intro-main__enroll {
+
+    width: 195px;
+
+    margin-right: 24px;
+
+    flex-shrink: 0;
+
+}
+
+
+
+.toronto-intro-main__wrapper--reversed,
+
+.city-intro-main__wrapper--reversed {
+
+    align-items: flex-end;
+
+    margin-bottom: 48px;
+
+}
+
+
+
+.toronto-intro-main__wrapper--reversed .toronto-intro-main__enroll,
+
+.city-intro-main__wrapper--reversed .city-intro-main__enroll {
+
+    margin-right: 0;
+
+    margin-left: 24px;
+
+}
+
+
+
+.toronto-intro-main__wrapper--reversed .toronto-intro-main__text p,
+
+.city-intro-main__wrapper--reversed .city-intro-main__text p {
+
+    margin-bottom: 0;
+
+}
+
+
+
+.toronto-intro-main__text p:last-child,
+
+.city-intro-main__text p:last-child {
+
+    margin-bottom: 0;
+
+}
+
+
+
+.enroll-white {
+
+    border: 1px solid #231f20;
+
+    display: block;
+
+    border-radius: 10px;
+
+    padding: 16px 20px 28px;
+
+    font-size: 20px;
+
+    line-height: 24px;
+
+    color: #231f20;
+
+}
+
+
+
+.enroll-white__email {
+
+    font-size: 16px;
+
+    line-height: 1.2em;
+
+    margin-top: 20px;
+
+}
+
+
+
+.enroll-white__title {
+
+    margin-bottom: 68px;
+
+}
+
+
+
+.enroll-white a {
+
+    color: #231f20;
+
+    text-decoration: none;
+
+}
+
+
+
+.enroll-white a:hover {
+
+    color: #231f20;
+
+    text-decoration: none;
+
+}
+
+
+
+.toronto-intro-video,
+
+.city-intro-video {
+
+    display: flex;
+
+    flex-direction: row;
+
+    flex-wrap: nowrap;
+
+    width: 100%;
+
+    justify-content: flex-start;
+
+    margin-bottom: 32px;
+
+}
+
+
+
+.toronto-intro-videos,
+
+.city-intro-videos {
+
+    padding-bottom: 10px;
+
+}
+
+
+
+.toronto-intro-video__frame,
+
+.city-intro-video__frame {
+
+    width: 288px;
+
+    flex-shrink: 0;
+
+}
+
+
+
+.toronto-intro-video__content,
+
+.city-intro-video__content {
+
+    padding-left: 30px;
+
+    padding-top: 18px;
+
+}
+
+
+
+.toronto-intro-video__content.item--no-padding,
+
+.city-intro-video__content.item--no-padding {
+
+    padding-top: 0;
+
+}
+
+
+
+.toronto-intro-video__title,
+
+.city-intro-video__title {
+
+    font-size: 24px;
+
+    line-height: 1.2em;
+
+    color: #010101;
+
+    font-weight: 400;
+
+    margin: 0 0 0.825em;
+
+    padding: 0;
+
+}
+
+
+
+.pt-img-banner--no-margin {
+
+    margin-bottom: 0 !important;
+
+}
+
+
+
+@media screen and (max-width: 767px) {
+
+    .toronto-intro-main__wrapper,
+
+    .city-intro-main__wrapper {
+
+        flex-direction: column;
+
+    }
+
+
+
+    .toronto-intro-main__text,
+
+    .city-intro-main__text {
+
+        margin-top: 24px;
+
+    }
+
+
+
+    .toronto-intro-video,
+
+    .city-intro-video {
+
+        flex-direction: column;
+
+    }
+
+
+
+    .toronto-intro-video__content,
+
+    .city-intro-video__content {
+
+        padding-left: 0;
+
+        width: 100%;
+
+    }
+
+
+
+    .toronto-intro-videos,
+
+    .city-intro-videos {
+
+        margin-top: 24px;
+
+    }
+
+
+
+    .toronto-intro-video__frame,
+
+    .city-intro-video__frame {
+
+        width: 100%;
+
+    }
+
+
+
+    .blue-subjects__item.last {
+
+        margin-left: 0;
+
+    }
+
+}
+
+
+
+@media screen and (max-width: 479px) {
+
+    .pt-course-info-onecolumn {
+
+        padding-left: 15px;
+
+        padding-right: 15px;
+
+    }
+
+}
+
+
+
+.mt-img-banner--math .pt-img-banner__title.pt-img-banner__title--small {
+
+    font-size: 50px;
+
+    line-height: 1.1em;
+
+}
+
+
+
+.toronto-intro-main__title.align-left,
+
+.city-intro-main__title.align-left {
+
+    text-align: left;
+
+}
+
+
+
+.toronto-intro-main__text-heading,
+
+.city-intro-main__text-heading {
+
+    font-family: "CalisMTBol", "Calisto MT", serif;
+
+    font-size: 26px;
+
+    line-height: 1.2em;
+
+    color: #010101;
+
+    font-weight: 400;
+
+    margin: 0 0 0.75em;
+
+    padding: 0;
+
+}
+
+
+
+.toronto-intro__bottom-text,
+
+.city-intro__bottom-text {
+
+    margin-top: 40px;
+
+}
+
+
+
+.pt-course-info-onecolumn--bigger-margins .pt-course-info-group {
+
+    margin-top: 40px;
+
+}
+
+
+
+.pt-course-info-onecolumn--bigger-margins .pt-course-info-group:first-child {
+
+    margin-top: 0;
+
+}
+
+
+
+.toronto-intro-main__text-heading span,
+
+.city-intro-main__text-heading span {
+
+    color: #f16c8a;
+
+}
+
+
+
+.toronto-intro--english,
+
+.city-intro--english {
+
+    background-color: #f4f3cc;
+
+    padding-bottom: 0;
+
+    overflow: hidden;
+
+}
+
+
+
+.toronto-intro--english .enroll-white__title,
+
+.city-intro--english .enroll-white__title {
+
+    margin-bottom: 24px;
+
+}
+
+
+
+.toronto-intro--english .toronto-intro-main__text-heading,
+
+.city-intro--english .city-intro-main__text-heading {
+
+    padding-left: 1.5em;
+
+    padding-right: 1em;
+
+}
+
+
+
+.pt-course-intro--top-margin {
+
+    margin-top: 60px;
+
+}
+
+
+
+@media screen and (max-width: 767px) {
+
+    .mt-img-banner--math .pt-img-banner__title.pt-img-banner__title--small {
+
+        bottom: 10px;
+
+        font-size: 40px;
+
+    }
+
+}
+
+
+
+@media screen and (max-width: 479px) {
+
+    .mt-img-banner--math .pt-img-banner__title.pt-img-banner__title--small {
+
+        bottom: 10px;
+
+        font-size: 35px;
+
+    }
+
+}
+
+
+
+.videos-2column-layout .o-tutor-card {
+
+    width: 100%;
+
+}
+
+
+
+.videos-2column-layout .o-tutor-card__video {
+
+    float: none;
+
+    width: 100%;
+
+}
+
+
+
+.videos-2column-layout .o-tutor-card__main {
+
+    float: none;
+
+    width: 100%;
+
+    padding-left: 0;
+
+}
+
+
+
+.videos-2column-layout .o-tutor-card__name {
+
+    font-size: 16px;
+
+}
+
+
+
+.m-tutors-section--yellow {
+
+    padding-top: 21px;
+
+    padding-bottom: 0;
+
+    background-color: #f4f3cc;
+
+    padding-left: 30px;
+
+    padding-right: 30px;
+
+    margin-bottom: 0;
+
+    border-bottom: none;
+
+}
+
+
+
+.m-tutors-section--yellow .o-tutor-card__name {
+
+    font-size: 16px;
+
+}
+
+
+
+.m-yellow-bg {
+
+    padding-left: 30px;
+
+    padding-right: 30px;
+
+    background-color: #f4f3cc;
+
+    margin-top: 0;
+
+}
+
+
+
+.m-yellow-bg .pt-course-new-section {
+
+    margin-top: 0;
+
+}
+
+
+
+.c-contact-section {
+
+    border-top: 1px solid #231f20;
+
+    padding-top: 24px;
+
+}
+
+
+
+.c-contact-section__title {
+
+    font-family: "CalisMTBol", "Calisto MT", serif;
+
+    font-weight: bold;
+
+    font-size: 32px;
+
+    line-height: 1.125em;
+
+    color: #010101;
+
+    margin: 0 0 0.75em;
+
+    padding: 0;
+
+}
+
+
+
+.c-contact-section__city-name {
+
+    font-family: "CalisMTBol", "Calisto MT", serif;
+
+    font-weight: bold;
+
+    font-size: 32px;
+
+    line-height: 1.125em;
+
+    color: #010101;
+
+    margin: 0 0 0.5em;
+
+    padding: 0;
+
+}
+
+
+
+.c-contact-section__description a {
+
+    color: #231f20;
+
+    text-decoration: none;
+
+}
+
+
+
+.c-contact-section__description a:hover {
+
+    color: #231f20;
+
+    text-decoration: none;
+
+}
+
+
+
+@media screen and (max-width: 767px) {
+
+    .toronto-intro--english .toronto-intro-main__text-heading,
+
+    .city-intro--english .city-intro-main__text-heading {
+
+        padding-left: 0;
+
+    }
+
+}
+
+
+
+.toronto-intro-main__heading-underline,
+
+.city-intro-main__heading-underline {
+
+    font-family: "CalisMTBol", "Calisto MT", serif;
+
+    font-size: 22px;
+
+    line-height: 1.2em;
+
+    color: #010101;
+
+    font-weight: 400;
+
+    margin: 0 0 21px;
+
+    padding: 0 0 0.25em;
+
+    text-align: left;
+
+    border-bottom: 1px solid #070808;
+
+}
+
+
+
+.c-banner-white {
+
+    position: relative;
+
+    font-size: 0;
+
+}
+
+
+
+.c-banner-white__text {
+
+    display: inline-block;
+
+    width: auto;
+
+    background-color: rgba(255,255,255,0.9);
+
+    position: absolute;
+
+    z-index: 2;
+
+    left: 30px;
+
+    padding: 10px 15px;
+
+
+
+    font-family: "CalisMTBol", "Calisto MT", serif;
+
+    font-size: 36px;
+
+    line-height: 1.3;
+
+    color: #010101;
+
+    font-weight: 700;
+
+    margin: 0;
+
+    text-align: left;
+
+}
+
+
+
+.t-pink-section-toronto,
+
+.t-pink-section {
+
+    background-color: #f7ddeb;
+
+    padding: 32px 30px 20px;
+
+}
+
+
+
+.pt-img-banner--align-left.mt-img-banner--math .pt-img-banner__title {
+
+    left: 37px;
+
+    right: auto;
+
+}
+
+
+
+.t-simple-photos {
+
+    overflow: hidden;
+
+    width: 100%;
+
+}
+
+
+
+.t-simple-photos__wrapper {
+
+    margin: 0 -15px;
+
+    display: flex;
+
+    flex-direction: row;
+
+    flex-wrap: wrap;
+
+    justify-content: flex-start;
+
+    align-items: center;
+
+    font-size: 0;
+
+    line-height: 0;
+
+}
+
+
+
+.t-simple-photos__item {
+
+    width: 20%;
+
+    padding: 0 15px 20px;
+
+}
+
+
+
+.t-in-action {
+
+    padding-left: 30px;
+
+    padding-right: 30px;
+
+    padding-bottom: 15px;
+
+}
+
+
+
+.t-in-action__title {
+
+    font-family: "CalisMTBol", "Calisto MT", serif;
+
+    font-weight: bold;
+
+    font-size: 32px;
+
+    line-height: 1.125em;
+
+    color: #010101;
+
+    margin: 0 0 0.75em;
+
+    padding: 0;
+
+}
+
+
+
+.t-in-action__subtitle {
+
+    font-family: "CalisMTBol", "Calisto MT", serif;
+
+    font-size: 18px;
+
+    line-height: 1.2em;
+
+    color: #010101;
+
+    font-weight: 700;
+
+    margin: 0 0 21px;
+
+    padding: 0;
+
+}
+
+
+
+.book-section__title {
+
+    font-family: "CalisMTBol", "Calisto MT", serif;
+
+    font-size: 36px;
+
+    line-height: 1.2em;
+
+    color: #010101;
+
+    font-weight: 400;
+
+    margin: 0 0 21px;
+
+    padding: 0;
+
+}
+
+
+
+.book-section__title h2,
+
+.book-section__title h3 {
+
+    margin-top: 0;
+
+    margin-bottom: 0;
+
+}
+
+
+
+.book-section__subtitle {
+
+    font-family: "CalisMTBol", "Calisto MT", serif;
+
+    font-size: 26px;
+
+    line-height: 1.2em;
+
+    color: #010101;
+
+    font-weight: 700;
+
+    margin: 0 0 21px;
+
+    padding: 0;
+
+}
+
+
+
+.book-section-wrapper {
+
+    display: flex;
+
+    flex-wrap: nowrap;
+
+    width: 100%;
+
+    justify-content: flex-start;
+
+    align-items: flex-start;
+
+}
+
+
+
+.book-section__img {
+
+    width: 130px;
+
+    flex-shrink: 0;
+
+    font-size: 0;
+
+    line-height: 0;
+
+}
+
+
+
+.book-section__main {
+
+    width: calc(100% - 130px);
+
+    display: flex;
+
+    flex-direction: row;
+
+    flex-wrap: nowrap;
+
+    justify-content: flex-start;
+
+    align-items: flex-start;
+
+    padding-top: 15px;
+
+
+
+    font-family: 'Garamond-Bold', 'Garamond';
+
+    font-weight: 400;
+
+}
+
+
+
+.book-section__left {
+
+    padding-left: 30px;
+
+}
+
+
+
+.book-section__right {
+
+    padding-left: 30px;
+
+    margin-left: auto;
+
+}
+
+
+
+.book-section__book-title {
+
+    font-size: 26px;
+
+    line-height: 1.2em;
+
+    font-weight: bold;
+
+}
+
+
+
+.book-section__book-author {
+
+    font-size: 18px;
+
+    line-height: 1.2em;
+
+    font-weight: bold;
+
+    margin-top: 6px;
+
+}
+
+
+
+.book-section__book-descr {
+
+    font-size: 18px;
+
+    line-height: 1.2em;
+
+    font-weight: 400;
+
+}
+
+
+
+.book-section__dld-link {
+
+    margin-bottom: 20px;
+
+}
+
+
+
+.book-section__dld-link a {
+
+    text-decoration: none;
+
+    color: #231f20;
+
+}
+
+
+
+.book-section__dld-link a:hover {
+
+    text-decoration: underline;
+
+    color: #231f20;
+
+}
+
+
+
+.book-section {
+
+    padding: 40px 0 52px;
+
+    /*border-style: solid;
+
+    border-color: #000;
+
+    border-width: 0 0 1px;*/
+
+    margin-bottom: 0px;
+
+}
+
+
+
+.book-section--small-paddings {
+
+    padding-top: 20px;
+
+    padding-bottom: 32px;
+
+}
+
+
+
+.t-dotted-list {
+
+    list-style: none;
+
+    padding: 0;
+
+    margin: 0;
+
+    font-size: 18px;
+
+    line-height: 1.2em;
+
+    font-weight: 400;
+
+}
+
+
+
+.t-dotted-list li {
+
+    position: relative;
+
+    padding-left: 30px;
+
+    margin-top: 18px;
+
+}
+
+
+
+.t-dotted-list li:first-child {
+
+    margin-top: 0;
+
+}
+
+
+
+.t-dotted-list li:before {
+
+    content: '';
+
+    display: block;
+
+    width: 10px;
+
+    height: 10px;
+
+    background-color: #000000;
+
+    border-radius: 50%;
+
+    position: absolute;
+
+    top: 4px;
+
+    left: 0;
+
+}
+
+
+
+.t-dotted-list a {
+
+    text-decoration: none;
+
+    color: #231f20;
+
+}
+
+
+
+
+
+.t-dotted-list a:hover {
+
+    text-decoration: underline;
+
+    color: #231f20;
+
+}
+
+
+
+.toronto-tutors-heading,
+
+.city-tutors-heading {
+
+    font-family: "CalisMTBol", "Calisto MT", serif;
+
+    font-size: 36px;
+
+    line-height: 1.2em;
+
+    color: #010101;
+
+    font-weight: 400;
+
+    margin: 0 0 1.2em;
+
+    padding: 0;
+
+}
+
+
+
+.toronto-yellow-bg2,
+
+.city-yellow-bg2 {
+
+    background-color: #f0f3c0;
+
+}
+
+
+
+.toronto-yellow-bg2 + .pt-course-new-section,
+
+.city-yellow-bg2 + .pt-course-new-section {
+
+    margin-top: 0;
+
+}
+
+
+
+@media screen and (max-width: 767px) {
+
+    .toronto-intro-main__wrapper--reversed .toronto-intro-main__enroll,
+
+    .city-intro-main__wrapper--reversed .city-intro-main__enroll {
+
+        margin-left: 0;
+
+        margin-right: 0;
+
+        margin-top: 32px;
+
+    }
+
+
+
+    .toronto-intro-main__wrapper--reversed,
+
+    .city-intro-main__wrapper--reversed {
+
+        align-items: flex-start;
+
+    }
+
+
+
+    .book-section {
+
+        padding-left: 15px;
+
+        padding-right: 15px;
+
+    }
+
+
+
+    .book-section__main {
+
+        flex-direction: column;
+
+        width: 100%;
+
+    }
+
+
+
+    .book-section-wrapper {
+
+        flex-wrap: wrap;
+
+    }
+
+
+
+    .book-section__right {
+
+        margin-top: 30px;
+
+        margin-left: 0;
+
+    }
+
+
+
+    .c-banner-white__text {
+
+        font-size: 18px;
+
+    }
+
+
+
+    .t-in-action {
+
+        padding-left: 15px;
+
+        padding-right: 15px;
+
+    }
+
+
+
+    .t-simple-photos__item {
+
+        width: 33.33%;
+
+        padding-left: 10px;
+
+        padding-right: 10px;
+
+        padding-bottom: 20px;
+
+    }
+
+
+
+    .t-simple-photos__wrapper {
+
+        margin-left: -5px;
+
+        margin-right: -5px;
+
+    }
+
+}
+
+
+
+.pt-img-banner--science-page.pt-img-banner--align-top-left .pt-img-banner__title {
+
+    top: 10px;
+
+    bottom: auto;
+
+    font-size: 60px;
+
+    line-height: 1em;
+
+}
+
+
+
+.pt-img-banner--science-page.pt-img-banner--align-top-left .pt-img-banner__title h1 {
+
+    margin-top: 0 !important;
+
+    font-size: inherit;
+
+    line-height: inherit;
+
+}
+
+
+
+.pt-img-banner--overlay:after {
+
+    content: '';
+
+    display: block;
+
+    width: 100%;
+
+    position: absolute;
+
+    top: 0;
+
+    right: 0;
+
+    bottom: 0;
+
+    left: 0;
+
+}
+
+
+
+.pt-img-banner--overlay-light:after {
+
+    content: '';
+
+    display: block;
+
+    width: 100%;
+
+    position: absolute;
+
+    top: 0;
+
+    right: 0;
+
+    bottom: 0;
+
+    left: 0;
+
+    background-color: #ccc;
+
+    opacity: 0.3;
+
+}
+
+
+
+.pt-img-banner--overlay .pt-img-banner__title {
+
+    z-index: 2;
+
+    color: #000;
+
+}
+
+
+
+.book-section--small-paddings + .m-tutors-section.section--bg-pink {
+
+    margin-top: 30px;
+
+}
+
+
+
+.page--yellow {
+
+    background: #fcfcf1;
+
+}
+
+
+
+.page--yellow .st-intro,
+
+.page--yellow .book-section,
+
+.page--yellow .m-tutors-section,
+
+.page--yellow .pt-course-intro,
+
+.page--yellow .pt-course-info,
+
+.page--yellow .quality-section {
+
+    padding-left: 15px;
+
+    padding-right: 15px;
+
+}
+
+
+
+.page--yellow .quality-section__text {
+
+    padding-right: 0;
+
+}
+
+
+
+.page--yellow .quality-section__text p {
+
+    padding-right: 3em;
+
+}
+
+
+
+.page--yellow .m-tutors-section--yellow.m-tutors-section--pink-bg {
+
+    margin-left: -15px;
+
+    margin-right: -15px;
+
+}
+
+
+
+@media screen and (min-width: 768px) {
+
+    .c-banner--mobile-bg {
+
+        background-image: none !important;
+
+    }
+
+}
+
+
+
+@media screen and (max-width: 767px) {
+
+    .c-banner--mobile-bg {
+
+        height: 240px;
+
+        background-size: cover;
+
+        background-position: center top;
+
+        background-repeat: no-repeat;
+
+    }
+
+
+
+    .c-banner--mobile-bg .c-banner-white__text {
+
+        right: 15px;
+
+    }
+
+
+
+    .c-banner--mobile-bg .c-banner-white__text > h3 {
+
+        font-size: 26px !important;
+
+        line-height: 1.2em;
+
+    }
+
+
+
+    .c-banner--mobile-bg .c-banner-white__text-subtitle h3 {
+
+        font-size: 18px !important;
+
+    }
+
+
+
+    .c-banner--mobile-bg img {
+
+        display: none;
+
+    }
+
+
+
+    .book-section__title h2,
+
+    .book-section__title h3 {
+
+        margin-bottom: 1em;
+
+    }
+
+
+
+    .pt-img-banner--overlay-light:after {
+
+        content: unset;
+
+        display: none;
+
+    }
+
+}
+
+
+
+.toronto-tutors-heading--h3 {
+
+  font-size: 26px;
+
+}

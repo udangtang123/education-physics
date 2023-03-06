@@ -1,0 +1,783 @@
+.pt-img-banner--science-page.pt-img-banner--private .pt-img-banner__title {
+	font-size: 50px;
+	line-height: 1.2em;
+	bottom: 86px;
+}
+
+.private-header {
+	padding: 0 0 24px 1em;
+}
+
+.private-header h1,
+.private-header h2,
+.private-header h3,
+.private-header h4 {
+	font-family: "CalisMTBol", "Calisto MT", serif;
+    font-size: 36px;
+    line-height: 1.2em;
+    color: #010101;
+    font-weight: 400;
+    margin: 0 0 0.5em;
+	padding: 0;
+	text-align: left;
+}
+
+.private-header__subtitle {
+	font-size: 22px;
+	line-height: 1.2em;
+	font-family: "CalisMTBol", "Calisto MT", serif;
+	color: #010101;
+    font-weight: 400;
+    margin: 0 0 21px;
+}
+
+.classroom-lectures {
+	margin-bottom: 40px;
+}
+
+.classroom-lectures__images {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: center;
+	font-size: 0;
+	line-height: 0;
+}
+
+.classroom-lectures__img.i1 {
+	margin-right: 41px;
+}
+
+.classroom-lectures__img.i2 {
+	margin-right: 41px;
+}
+
+.classroom-lectures__header {
+	font-family: "CalisMTBol", "Calisto MT", serif;
+    font-size: 24px;
+    line-height: 1.2em;
+    color: #010101;
+    font-weight: 400;
+    margin: 0 0 21px;
+    padding: 0 0 0.25em;
+    text-align: left;
+}
+
+.exp-videos__grid-inner {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	align-items: flex-start;
+	margin: 0 -25px;
+}
+
+.exp-videos__grid-item {
+	width: 50%;
+	padding: 0 25px 25px;
+}
+
+.exp-videos__title {
+	font-family: "CalisMTBol", "Calisto MT", serif;
+    font-size: 24px;
+    line-height: 1.2em;
+    color: #010101;
+    font-weight: 400;
+    margin: 0 0 21px;
+    padding: 0;
+    text-align: left;
+}
+
+.exp-video-card__title {
+	font-family: "CalisMTBol", "Calisto MT", serif;
+    font-size: 24px;
+    line-height: 1.2em;
+    color: #010101;
+    font-weight: 400;
+    margin: 16px 0 21px;
+    padding: 0;
+    text-align: left;
+}
+
+.exp-videos {
+	border-bottom: 1px solid #070808;
+	padding-bottom: 15px;
+}
+
+.st-benefits__title {
+	font-family: "CalisMTBol", "Calisto MT", serif;
+    font-size: 36px;
+    line-height: 1.2em;
+    color: #010101;
+    font-weight: 700;
+    margin: 0 0 1em;
+    padding: 0;
+    text-align: left;
+}
+
+.st-benefits__subheading {
+	font-family: "CalisMTBol", "Calisto MT", serif;
+    font-size: 24px;
+    line-height: 1.2em;
+    color: #010101;
+    font-weight: 700;
+    margin: 0 0 0.5em;
+    padding: 0;
+    text-align: left;
+}
+
+.st-benefits-l1 {
+	margin-bottom: 15px;
+}
+
+.st-benefits-l2 {
+	margin-bottom: 15px;
+}
+
+.st-benefits-l3 {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: center;
+	width: 100%;
+}
+
+.st-benefits-l3__img {
+	width: 195px;
+	flex-shrink: 0;
+	margin-right: 36px;
+}
+
+.st-benefits {
+	margin-top: 30px;
+}
+
+.course-offered__title-small {
+	font-size: 24px;
+    line-height: 1.2em;
+    margin-bottom: 2em;
+}
+
+.course-offered__title {
+	font-family: "CalisMTBol", "Calisto MT", serif;
+    font-size: 36px;
+    line-height: 1.2em;
+    color: #010101;
+    font-weight: 700;
+    margin: 0 0 0.5em;
+    padding: 0;
+    text-align: left;
+}
+
+.course-offered-item {
+	margin-bottom: 36px;
+}
+
+.course-offered {
+	margin-top: 40px;
+}
+
+.course-offered-item__title {
+	font-family: "CalisMTBol", "Calisto MT", serif;
+    font-size: 24px;
+    line-height: 1.2em;
+    color: #010101;
+    font-weight: 700;
+    margin: 0 0 0.25em;
+    padding: 0;
+    text-align: left;
+}
+
+.course-offered-item__text {
+	font-size: 18px;
+	line-height: 1.2em;
+	font-weight: normal;
+}
+
+.m-tutors-section--yellow.m-tutors-section--pink-bg {
+	background-color: #fce2ed;
+}
+
+.o-tutor-card--wide--text-padding .o-tutor-card__main {
+	padding-top: 30px;
+	font-family: "CalisMTBol", "Calisto MT", serif;
+}
+
+.o-tutor-card--wide--text-padding .o-tutor-card__name {
+	font-size: 24px;
+	line-height: 1.2em;
+}
+
+.o-tutor-card__subtitle {
+	font-size: 18px;
+	line-height: 1.2em;	
+}
+
+.o-tutor-card__text {
+	font-size: 14px;
+	line-height: 1.2em;
+}
+
+.toronto-intro--yellow-bg {
+	background-color: #fcfcf1;
+}
+
+.m-tutors-thank-heading {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	width: 100%;
+	align-items: center;
+}
+
+.m-tutors-thank-heading__text {
+	font-family: "CalisMTBol", "Calisto MT", serif;
+    font-size: 36px;
+    line-height: 1.2em;
+    color: #010101;
+    font-weight: 700;
+    margin: 0 0 0.25em;
+    padding: 0;
+    text-align: left;
+}
+
+.m-tutors-thank-heading__bottom {
+	color: #010506;
+    font-family: 'Garamond-Bold', 'Garamond';
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 1.1em;
+    margin-top: 0.7em;
+}
+
+.m-tutors-thank-heading__rating {
+	flex-shrink: 0;
+	width: 214px;
+	margin-right: 15px;
+}
+
+.p-reviews-top {
+	text-align: center;
+}
+
+.p-reviews__images {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	font-size: 0;
+	line-height: 0;
+	justify-content: center;
+	align-items: center;
+	margin-top: 15px;
+}
+
+.p-reviews__images-item {
+	padding: 0 10px;
+}
+
+.p-reviews {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.p-reviews__title {
+	font-family: "CalisMTBol", "Calisto MT", serif;
+    font-size: 36px;
+    line-height: 1.2em;
+    color: #010101;
+    font-weight: 700;
+    margin: 0 0 0.5em;
+    padding: 0;
+}
+
+.p-reviews__subtitle {
+	font-family: "CalisMTBol", "Calisto MT", serif;
+    font-size: 20px;
+    line-height: 1.2em;
+    color: #010101;
+    font-weight: 700;
+    margin: 0 0 0.25em;
+    padding: 0;
+}
+
+.p-reviews-top .wp-google-rating {
+	color: #e7711b;
+    font-size: 20px;
+    margin: 0 6px 0 0;
+	vertical-align: middle;
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.p-review-card .wp-more {
+	display: none;
+}
+
+.p-review-card .wp-more-toggle {
+	color: #136aaf;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.p-review-card__top {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	width: 100%;
+	justify-content: flex-start;
+	align-items: center;
+	margin-bottom: 20px;
+}
+
+.p-review-card__top-r {
+	flex-shrink: 0;
+	margin-left: auto;
+	margin-right: 0;
+}
+
+.p-review-card__name {
+	color: black;
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0 0 2px;
+    padding-right: 6px;
+	text-decoration: none;
+	line-height: 20px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.p-reviews-carousel__item {
+	padding: 0 15px;
+}
+
+.p-review-card {
+	border: 1px solid #020202;
+	border-radius: 10px;
+	background-color: #fff;
+	padding: 20px 15px;
+	width: 250px;
+}
+
+.p-reviews-carousel-wrapper {
+	overflow: hidden;
+	width: 100%;
+	margin-top: 26px;
+}
+
+.p-reviews-carousel-wrapper__inner {
+	margin: 0 -15px;
+}
+
+.p-reviews-carousel__item.slick-slide:focus {
+	outline: none;
+}
+
+.p-reviews-bottom-text {
+	margin-top: 1.5em;
+}
+
+.achievers-inquiry__heading-big {
+	font-family: "CalisMTBol", "Calisto MT", serif;
+    font-size: 36px;
+    line-height: 1.2em;
+    color: #010101;
+    font-weight: 700;
+    margin: 0 0 0.5em;
+	padding: 0.25em 0 0 0;
+	text-align: center;
+}
+
+.book-section--blue {
+	background-color: #a6d4f6;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.achievers + .book-section--blue {
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+
+.pc-study-tips--bigger-font .pc-study-tip__title {
+	font-size: 18px;
+    line-height: 1.2em;
+}
+
+.pc-study-tips--bigger-font .pc-study-tip__content {
+	font-size: 14px;
+	line-height: 16px;
+}
+
+.pc-study-tips--paddings {
+	padding-top: 32px;
+}
+
+.pc-study-tips--paddings .pc-study-tips-title h3 {
+	margin-top: 0;
+}
+
+.pc-study-tips--paddings .pc-study-tip:last-child {
+	margin-bottom: 0;
+}
+
+.pc-study-tips--paddings .pc-study-tips-layout {
+	padding-bottom: 48px;
+}
+
+.find-section-wrapper-course-page {
+	padding-left: 15px;
+    padding-right: 15px;
+	background-color: #f4f3cc;
+	padding-bottom: 30px;
+}
+
+.find-section-wrapper-course-page .find-section__header {
+	margin-top: 0;
+	border: none;
+}
+
+@media screen and (max-width: 767px) {
+	.pt-img-banner--science-page.pt-img-banner--private .pt-img-banner__title {
+		font-size: 40px;
+		line-height: 1.2em;
+		bottom: 86px;
+	}
+
+	.pt-img-banner--science-page.pt-img-banner--private {
+		height: 300px;
+		background: transparent url("./banner.jpg") no-repeat top center;
+		background-size: cover;
+	}
+
+	.pt-img-banner--private.pt-img-banner img {
+		display: none;
+	}
+
+	.m-tutors-thank-heading {
+		flex-direction: column;
+		align-items: flex-start;
+	}
+	.m-tutors-thank-heading__text {
+		margin-top: 20px;
+	}
+
+	.toronto-intro-main__text {
+		width: 100%;
+	}
+
+	.toronto-intro-main__wrapper--reversed .toronto-intro-main__text p {
+		word-wrap: break-word;
+	}
+
+	.classroom-lectures__images {
+		flex-direction: column;
+		align-items: flex-start;
+	}
+
+	.classroom-lectures__img.i1 {
+		margin-bottom: 20px;
+		margin-right: 0;
+		width: 100%;
+	}
+
+	.classroom-lectures__img.i2 {
+		margin-bottom: 20px;
+		margin-right: 0;
+		width: 100%;
+	}
+
+	.exp-videos__grid-item {
+		width: 100%;
+	}
+
+	.st-benefits-l3 {
+		flex-direction: column;
+		align-items: flex-start;
+	}
+
+	.st-benefits-l3__img {
+		margin-bottom: 20px;
+	}
+
+	.course-offered__title {
+		font-size: 32px;
+	}
+
+	.course-offered-item__title {
+		font-size: 24px;
+	}
+
+	.course-offered-item__text {
+		font-size: 16px;
+	}
+}
+
+/* Study Tips */
+.study-tips-new {
+	background-color: #aedbf6;
+	margin: 0;
+	padding: 0 0 40px;
+}
+
+.st-tips-authors {
+	padding: 0 30px;
+}
+
+.s-tips-subjects {
+	padding: 42px 15px 0;
+}
+
+.study-tips-new-banner {
+	background-color: transparent;
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+	height: 250px;
+	position: relative;
+	font-size: 0;
+	line-height: 0;
+}
+
+.study-tips-new-banner__text {
+	font-family: "Garamond-Bold", "Garamond", serif;
+    color: #fff;
+    font-size: 60px;
+    line-height: 1em;
+    font-weight: 400;
+    margin: 0;
+    padding: 8px 40px 12px 15px;
+    position: absolute;
+    bottom: 15px;
+	left: 30px;
+	background-color: rgba(130, 22, 24, 0.6);
+}
+
+.st-tips-author {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	width: 100%;
+	align-items: center;
+	position: relative;
+	padding: 24px 0;
+}
+
+.st-tips-author:before {
+	content: "";
+	display: block;
+	height: 1px;
+	background-color: #020202;
+	position: absolute;
+	top: 0;
+	left: 30px;
+	right: 30px;
+}
+
+.st-tips-author:first-child:before {
+	content: unset;
+	display: none;
+}
+
+.st-tips-author__l {
+	flex-shrink: 0;
+	width: 60%;
+}
+
+.st-tips-author__r {
+	width: 40%;
+	font-size: 20px;
+	line-height: 1.2em;
+}
+
+.st-tips-author__r p {
+	margin-top: 1em;
+	margin-bottom: 0;
+}
+
+.st-tips-author__r p:first-child {
+	margin-top: 0;
+}
+
+.st-tips-author__r a {
+	text-decoration: none;
+	color: #050606;
+}
+
+.st-tips-author__r a:hover {
+	text-decoration: underline;
+	color: #050606;
+}
+
+.st-tips-author-info {
+	display: flex;
+	flex-wrap: nowrap;
+	flex-direction: row;
+	width: 100%;
+	align-items: center;
+	font-size: 18px;
+	line-height: 1.2em;
+}
+
+.st-tips-author-info__img {
+	width: 70px;
+	flex-shrink: 0;
+	margin-right: 24px;
+}
+
+.st-tips-author-info__name {
+	
+}
+
+.s-tips-subjects {
+	color: #070808;
+}
+
+.s-tips-subjects-heading {
+	font-family: "Garamond-Bold", "Garamond", serif;
+    color: #070808;
+    font-size: 55px;
+    line-height: 1em;
+    font-weight: 400;
+	margin: 0 0 1.25em;
+	padding: 0;
+}
+
+.s-tips-subjects-heading--g-font {
+	font-family: "CalisMTBol", "Calisto MT", serif;
+    font-size: 36px;
+    line-height: 1.2em;
+    font-weight: 700;
+}
+
+.s-tips-subjects-subtitle {
+	font-family: "Garamond-Bold", "Garamond", serif;
+    color: #070808;
+    font-size: 36px;
+    line-height: 1em;
+    font-weight: 400;
+	margin: 0 0 2em;
+	padding: 0;
+}
+
+.s-tips-subjects-heading--g-font + .s-tips-subjects-subtitle {
+	font-family: "CalisMTBol", "Calisto MT", serif;
+	font-size: 24px;
+}
+
+.s-tips-content-group {
+	margin-top: 50px;
+}
+
+.s-tips-content-group__h1 {
+	font-family: "Garamond-Bold", "Garamond", serif;
+    color: #070808;
+    font-size: 36px;
+    line-height: 1em;
+    font-weight: 400;
+	margin: 0 0 15px;
+	padding: 0;
+}
+
+.s-tips-content-group__main {
+	background-color: #f8f7f9;
+	padding: 20px 15px 15px;
+	margin-bottom: 30px;
+}
+
+.s-tips-content-group__title {
+	font-family: "Garamond-Bold", "Garamond", serif;
+    color: #070808;
+    font-size: 24px;
+    line-height: 1em;
+    font-weight: 700;
+	margin: 0 0 50px;
+	padding: 0;
+}
+
+.s-tips-content-group__subtitle {
+	font-family: "Garamond-Bold", "Garamond", serif;
+    color: #070808;
+    font-size: 18px;
+    line-height: 1em;
+    font-weight: 700;
+	margin: 0;
+	padding: 0;
+}
+
+.s-tips-content-group-section {
+	margin-bottom: 50px;
+}
+
+.s-tips-content-group-section:last-child {
+	margin-bottom: 0;
+}
+
+.study-tips-new + .c-contact-section {
+	border-top: none;
+}
+
+@media screen and (max-width: 767px) {
+	.st-tips-author {
+		flex-direction: column;
+		align-items: flex-start;
+	}
+
+	.st-tips-author__l {
+		width: 100%;
+	}
+
+	.st-tips-author__r {
+		width: 100%;
+		margin-top: 20px;
+	}
+
+	.s-tips-subjects-heading {
+		font-size: 45px;
+	}
+
+	.s-tips-subjects-heading--g-font {
+		font-size: 30px;
+	}
+
+	.s-tips-content-group {
+		margin-top: 64px;
+	}
+}
+
+.appr-text-section {
+	background-color: #f7ddeb;
+    padding-top: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 30px;
+}
+
+.appr-text-section .pt-course-intro {
+	margin-bottom: 0;
+}
+
+.s-tips-subjects--citypage {
+	padding-top: 15px;
+}
+
+.s-tips-subjects--citypage .s-tips-content-group:first-child {
+	margin-top: 0;
+}
+
+.p-reviews-bottom-text-bold {
+	font-family: "CalisMTBol", "Calisto MT", serif;
+    font-size: 20px;
+    line-height: 1.2em;
+    color: #010101;
+    font-weight: 700;
+    margin: 1.5em 0 0;
+    padding: 0;
+}
+
+.p-reviews-bottom-text-bold h1,
+.p-reviews-bottom-text-bold h2,
+.p-reviews-bottom-text-bold h3,
+.p-reviews-bottom-text-bold h4 {
+	font-size: 20px;
+	margin: 1.5em 0 0;
+}
